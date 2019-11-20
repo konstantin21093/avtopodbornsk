@@ -1,0 +1,28 @@
+User-agent: *
+
+Allow: /img/
+
+Disallow: /js/
+Disallow: /slick/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /font_awesome/
+
+ 
+
+User-agent: Googlebot
+
+Allow: /
+
+ 
+
+User-agent: Yandex
+
+Allow: /img/
+Disallow: /slick/
+Disallow: /fonts/
+Disallow: /font_awesome/
+Disallow: /js/
+Disallow: /css/
+
+Host: https://avtopodbornsk.ru
