@@ -154,11 +154,11 @@ main .mainslider .slick-list * {
   width: 100%;
 }
 main .mainslider-item1 {
-  background: url(/img/main/main-bg-1c.jpg) center center no-repeat;
+  background: url(img/main/main-bg-1c.jpg) center center no-repeat;
   background-size: cover;
 }
 main .mainslider-item2 {
-  background: url(/img/main/main-bg-2c.jpg) 25% 50% no-repeat;
+  background: url(img/main/main-bg-2c.jpg) 25% 50% no-repeat;
   background-size: cover;
 }
 main .main {
@@ -250,7 +250,7 @@ main .main p strong {
   width: 20px;
   height: 20px;
   border: none;
-  background: url(/img/risk/left_arrow.svg) center no-repeat;
+  background: url(img/risk/left_arrow.svg) center no-repeat;
   background-size: 90%;
   top: 50%;
   left: 0;
@@ -264,7 +264,7 @@ main .main p strong {
   width: 20px;
   height: 20px;
   border: none;
-  background: url(/img/risk/right_arrow.svg) center no-repeat;
+  background: url(img/risk/right_arrow.svg) center no-repeat;
   background-size: 90%;
   top: 50%;
   right: 0;
@@ -386,7 +386,7 @@ main .main p strong {
 /* check */
 .check {
   overflow: hidden;
-  background: url(/img/check/bg2.jpg) center no-repeat;
+  background: url(img/check/bg2.jpg) center no-repeat;
   background-position: 0% 45%;
   background-size: cover;
 }
